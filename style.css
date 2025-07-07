@@ -137,7 +137,7 @@ header > * {
 
 @media (max-width: 768px) {
     #mainGalleryImg {
-        max-height: 250px;
+        /* max-height: 250px; */
         margin: 0 20px;
     }
     #gallery .btn-light {
@@ -161,7 +161,7 @@ header > * {
 
 @media (max-width: 480px) {
     #mainGalleryImg {
-        max-height: 160px;
+        /* max-height: 160px; */
         margin: 0 8px;
     }
     #gallery .btn-light {
